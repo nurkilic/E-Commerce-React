@@ -1,0 +1,11 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.border-gray{
+  border:2px solid rgb(187, 170, 170);
+  padding: 15px;
+  border-radius: 10px;
+}
